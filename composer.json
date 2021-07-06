@@ -1,0 +1,5 @@
+{
+    "require": {
+        "php-unoconv/php-unoconv": "^4.1"
+    }
+}
